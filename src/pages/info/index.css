@@ -1,0 +1,8 @@
+.MuiListItem-root.Mui-selected {
+  background-color: rgba(48, 137, 252, 0.9) !important;
+  color: white !important;
+}
+
+.info-container {
+  padding-bottom: 32px;
+}

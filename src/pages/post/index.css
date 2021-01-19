@@ -1,0 +1,19 @@
+.content-container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: 14px;
+}
+
+.summary-content {
+  border-left: 4px solid #ccc;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  background: #ebebeb;
+  font-size: 18px;
+  padding: 16px;
+}
+
+.main-post-container {
+  margin: 24px;
+}
